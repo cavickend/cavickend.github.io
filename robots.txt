@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cavickend.github.io/sitemap.html.gz
+Sitemap: https://cavickend.github.io/app/sitemap.html.gz
+Sitemap: https://cavickend.github.io/assets/sitemap.html.gz
+Sitemap: https://cavickend.github.io/css/sitemap.html.gz
+Sitemap: https://cavickend.github.io/includes/sitemap.html.gz
+Sitemap: https://cavickend.github.io/item/sitemap.html.gz
+Sitemap: https://cavickend.github.io/src/sitemap.html.gz
